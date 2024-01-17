@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Salam-pc Backend developer 
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning angular js
+- 👋 Hi, I’m @Salam-pc mobile developer 
+- 👀 I’m interested in server handling 
+- 🌱 I’m a flutter developer with basic knowledge in node Express
 - 💞️ I’m looking to collaborate on interesting ideas 
 - 📫 How to reach me salu8656@gmail.com
 
